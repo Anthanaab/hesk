@@ -1,6 +1,10 @@
 # Hesk Ticketing
 Hesk ticketool to docker container
 
+# Prerequisite
+
+Docker, docker-compose.
+
 # Building and running with docker-compose
 
 add chmod +x /hesk/script/entrypoint.sh
