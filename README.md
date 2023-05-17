@@ -11,7 +11,7 @@ This might take a few minutes so be patient! Once the container is up, move on t
 
 # Website
 
-Once the container is up and healthy, navigate to http://localhost:8000
+Once the container is up and healthy, navigate to http://localhost:8000/install/
 
 In the top left of the screen, you should see our custom header. Click Install and perform the following.
 
