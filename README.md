@@ -1,5 +1,5 @@
-# hesk
-Hesk to docker container
+# Hesk Ticketing
+Hesk ticketool to docker container
 
 # Building and running with docker-compose
 
