@@ -48,7 +48,7 @@ On your local, navigate over to the data directory and you should now see two fi
 The dump file contains all of the data and setup you just did, and the php file contains the setup configurations 
 
  
-# Crédits
+# Credits
 
-Thanks to scottyfullstack for the dash.php 
+Thanks to scottyfullstack for the dash.php/entrypoint.sh
 
