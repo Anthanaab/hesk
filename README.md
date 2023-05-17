@@ -3,6 +3,8 @@ Hesk ticketool to docker container
 
 # Building and running with docker-compose
 
+add chmod +x /hesk/script/entrypoint.sh
+
 type this command : docker-compose build && docker-compose up &
 
 This might take a few minutes so be patient! Once the container is up, move on to the next step.
